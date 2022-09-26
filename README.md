@@ -6,6 +6,8 @@
 
 #3-abra o postman e coloque os dados do frete 
 
+#url http://127.0.0.1:5000/calculaFrete
+
 #exemplo:
 {
    "dimensao":{
