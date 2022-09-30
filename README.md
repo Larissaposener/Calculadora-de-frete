@@ -4,7 +4,7 @@
 
 #2-dê o comando "python routes.py" - assim o servidor local vai ser iniciado
 
-#3-abra o postman e coloque os dados do frete 
+#3-abra o postman e coloque os dados do frete que está np exemplo
 
 #url http://127.0.0.1:5000/calculaFrete
 
