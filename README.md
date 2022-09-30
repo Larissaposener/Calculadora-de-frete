@@ -6,7 +6,7 @@
 
 #3-abra o postman e coloque os dados do frete que está np exemplo
 
-#url http://127.0.0.1:5000/calculaFrete
+#url (POST) http://127.0.0.1:5000/calculaFrete
 
 #exemplo:
 {
